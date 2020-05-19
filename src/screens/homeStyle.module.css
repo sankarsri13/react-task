@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500;800&display=swap");
+
+.home {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../assets/dubai-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.main {
+  font-size: 50px;
+  font-family: "Raleway";
+  font-weight: 500;
+  color: #f6f6f6;
+}
+.tag {
+  font-size: 20px;
+  font-family: "Raleway";
+  font-weight: 300;
+  color: #f6f6f6;
+}
+.explore {
+  cursor: pointer;
+  padding: 5px;
+  height: 50px;
+  width: 150px;
+  display: flex;
+  border-radius: 50px;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  outline: none;
+  text-decoration: none;
+  font-family: "Raleway";
+  margin-top: 50px;
+}
+.explore img {
+  margin-left: 10px;
+  width: 20px;
+  height: 10px;
+}
+.text_cont {
+  margin-left: 50px;
+  margin-top: 70px;
+  max-width: 500px;
+}

@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+.nav-bar {
+  margin-left: 70px;
+  margin-right: 70px;
+
+  display: flex;
+}
+.logo-main {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logo-heading {
+  margin-left: 8px;
+  font-size: 20px;
+  color: #efd6ac;
+  font-weight: 400;
+  font-family: "Open Sans";
+}
+.logo-img {
+  height: 30px;
+  width: 30px;
+}
+.fone {
+  margin-left: 50px;
+  width: 150px;
+  height: 40px;
+}
+.mail {
+  margin-left: 20px;
+  width: 200px;
+  height: 40px;
+}
+.menus {
+  display: flex;
+  align-self: center;
+  margin-left: auto;
+  margin-right: 20px;
+}
+.menus p {
+  margin-left: 30px;
+  color: #e2eaf0;
+  font-weight: 600;
+  font-size: 13px;
+  font-family: "Open Sans";
+  align-self: center;
+}
