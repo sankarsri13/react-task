@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-task/static/css/main.809ea659.chunk.css",
+    "main.js": "/react-task/static/js/main.799cb30e.chunk.js",
+    "main.js.map": "/react-task/static/js/main.799cb30e.chunk.js.map",
+    "runtime-main.js": "/react-task/static/js/runtime-main.7c3b674a.js",
+    "runtime-main.js.map": "/react-task/static/js/runtime-main.7c3b674a.js.map",
+    "static/js/2.0e60c35a.chunk.js": "/react-task/static/js/2.0e60c35a.chunk.js",
+    "static/js/2.0e60c35a.chunk.js.map": "/react-task/static/js/2.0e60c35a.chunk.js.map",
+    "index.html": "/react-task/index.html",
+    "precache-manifest.2ee713649955f405ba4eaa37186a0ccf.js": "/react-task/precache-manifest.2ee713649955f405ba4eaa37186a0ccf.js",
+    "service-worker.js": "/react-task/service-worker.js",
+    "static/css/main.809ea659.chunk.css.map": "/react-task/static/css/main.809ea659.chunk.css.map",
+    "static/js/2.0e60c35a.chunk.js.LICENSE.txt": "/react-task/static/js/2.0e60c35a.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/react-task/static/media/1.70bd327b.jpg",
+    "static/media/11.jpg": "/react-task/static/media/11.97ae44d0.jpg",
+    "static/media/12.jpg": "/react-task/static/media/12.ca6d57b9.jpg",
+    "static/media/13.jpg": "/react-task/static/media/13.7705d7b0.jpg",
+    "static/media/14.jpg": "/react-task/static/media/14.a018b888.jpg",
+    "static/media/15.jpg": "/react-task/static/media/15.da4de555.jpg",
+    "static/media/2.jpg": "/react-task/static/media/2.c952fdc5.jpg",
+    "static/media/3.jpg": "/react-task/static/media/3.b5b67f94.jpg",
+    "static/media/4.jpg": "/react-task/static/media/4.7a128bbc.jpg",
+    "static/media/5.jpg": "/react-task/static/media/5.89747c2c.jpg",
+    "static/media/AL2.jpg": "/react-task/static/media/AL2.829335d2.jpg",
+    "static/media/Alarab.jpg": "/react-task/static/media/Alarab.0a16fcde.jpg",
+    "static/media/dubai-bg.jpg": "/react-task/static/media/dubai-bg.e86a2bd2.jpg",
+    "static/media/mail.png": "/react-task/static/media/mail.3e592e9c.png",
+    "static/media/map.png": "/react-task/static/media/map.d66e479c.png",
+    "static/media/path.png": "/react-task/static/media/path.f82e0132.png",
+    "static/media/tree2.jpg": "/react-task/static/media/tree2.6ff534f8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c3b674a.js",
+    "static/js/2.0e60c35a.chunk.js",
+    "static/css/main.809ea659.chunk.css",
+    "static/js/main.799cb30e.chunk.js"
+  ]
+}
