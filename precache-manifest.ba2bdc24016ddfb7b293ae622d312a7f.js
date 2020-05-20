@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "626a73806b3ab796761d74d7ef4dfa06",
+    "revision": "a07fa6ada49afb73e9261abf3490e7a9",
     "url": "/react-task/index.html"
   },
   {
-    "revision": "457188ca9dd509c999f6",
-    "url": "/react-task/static/css/main.809ea659.chunk.css"
+    "revision": "2209a18b1447899d1716",
+    "url": "/react-task/static/css/main.c2bcf1e3.chunk.css"
   },
   {
-    "revision": "ae388b22c5e7e73205c1",
-    "url": "/react-task/static/js/2.0e60c35a.chunk.js"
+    "revision": "dece1969de747c191dbe",
+    "url": "/react-task/static/js/2.cb590026.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react-task/static/js/2.0e60c35a.chunk.js.LICENSE.txt"
+    "url": "/react-task/static/js/2.cb590026.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "457188ca9dd509c999f6",
-    "url": "/react-task/static/js/main.799cb30e.chunk.js"
+    "revision": "2209a18b1447899d1716",
+    "url": "/react-task/static/js/main.9d117057.chunk.js"
   },
   {
     "revision": "c7970c91f3740b7422e1",
@@ -72,8 +72,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-task/static/media/Alarab.0a16fcde.jpg"
   },
   {
+    "revision": "aedc41a41fa32db918f7f41b291c6017",
+    "url": "/react-task/static/media/banner.aedc41a4.png"
+  },
+  {
+    "revision": "aa9b18be604ba3a0523347aad2108862",
+    "url": "/react-task/static/media/comp.aa9b18be.png"
+  },
+  {
     "revision": "e86a2bd22af051e225d7342e6e7002cb",
     "url": "/react-task/static/media/dubai-bg.e86a2bd2.jpg"
+  },
+  {
+    "revision": "ee6f3be4ad156f752e6a4b6d7be203b7",
+    "url": "/react-task/static/media/g1.ee6f3be4.png"
+  },
+  {
+    "revision": "756609735458088b3a3e4a259fcd0e70",
+    "url": "/react-task/static/media/g10.75660973.png"
+  },
+  {
+    "revision": "d4318c0ee236f80f6fd8c1c2e3cf2ec1",
+    "url": "/react-task/static/media/g2.d4318c0e.png"
+  },
+  {
+    "revision": "0ce73755b84024ba3dc2b4f1802e0e26",
+    "url": "/react-task/static/media/g3.0ce73755.png"
+  },
+  {
+    "revision": "d3e5b3c964fea9a9e7cef05767aef7cb",
+    "url": "/react-task/static/media/g4.d3e5b3c9.png"
+  },
+  {
+    "revision": "05cd9107dab6825f49d2a2e45f65d711",
+    "url": "/react-task/static/media/g5.05cd9107.png"
+  },
+  {
+    "revision": "1a1d7b7a670b37bea4475ace552b6306",
+    "url": "/react-task/static/media/g6.1a1d7b7a.png"
+  },
+  {
+    "revision": "063506dde2a034d5240986b5d3c9ff69",
+    "url": "/react-task/static/media/g8.063506dd.png"
+  },
+  {
+    "revision": "0b3d6933c9345f6e4847760d5b1c4c17",
+    "url": "/react-task/static/media/g9.0b3d6933.png"
   },
   {
     "revision": "3e592e9cbd71b55f78b34c8f4012219e",
