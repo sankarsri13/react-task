@@ -8,7 +8,6 @@ const ImageCard = ({ img, name }) => {
         alt="Image"
         src={require(`../assets/${img}.jpg`)}
         className={styles.ind_img}
-        style={{ width: "250px", height: "400px" }}
       />
     </div>
   );

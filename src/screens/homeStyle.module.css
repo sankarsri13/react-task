@@ -1,7 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500;800&display=swap");
 
+.main_container {
+  max-width: 100vw;
+}
 .home {
-  width: 100%;
+  max-width: 100%;
   height: 100vh;
   background-image: url("../assets/dubai-bg.jpg");
   background-position: center;
@@ -44,4 +47,23 @@
   margin-left: 50px;
   margin-top: 70px;
   max-width: 500px;
+}
+@media only screen and (max-width: 900px) {
+  .text_cont {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .main,
+  .tag {
+  }
+  .explore {
+    text-align: center;
+  }
 }

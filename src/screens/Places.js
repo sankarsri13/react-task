@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./placesStyle.module.css";
 const Places = () => {
   return (
-    <div>
+    <div className={styles.places_cont}>
       <img
         src={require("../assets/AL2.jpg")}
         alt=""

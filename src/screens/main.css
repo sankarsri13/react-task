@@ -1,0 +1,16 @@
+@media only screen and (max-width: 1300px) {
+  .fone,
+  .mail {
+    display: none;
+  }
+  .nav-bar {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .logo-heading {
+    font-size: 80%;
+  }
+  .menus p {
+    font-size: 60%;
+  }
+}

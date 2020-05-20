@@ -1,0 +1,152 @@
+/* .main {
+  width: 100vw;
+}
+
+.main2 {
+  transform: translateY(-500px);
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(5, 1fr);
+  grid-gap: 25px;
+}
+img {
+  max-width: 100%;
+  max-height: 100px;
+}
+/* .img_cont1 {
+  grid-row: 1 / 3;
+}
+.img_cont5 {
+  grid-row: 4 / 6;
+}
+.img_cont2 {
+}
+.img_cont0 {
+  grid-row: 3/ 5;
+}
+.img_cont3 {
+  grid-row: 1 / 4;
+}
+.img_cont4 {
+  grid-row: 1 / 2;
+}
+.img_cont8 {
+  grid-row: 2 / 3;
+} */
+/* .box {
+  border: 2px solid black;
+  width: 200px;
+}
+.img_cont1 {
+  grid-row: 1 /3;
+}
+.img_cont5 {
+  grid-row: 3/5;
+}
+.img_cont9 {
+  grid-row: 5/6;
+}
+.img_cont2 {
+  grid-row: 1/3;
+}
+.img_cont6 {
+  grid-row: 3/5;
+}
+.img_cont10 {
+  grid-row: 5/6;
+}
+.img_cont3 {
+  grid-row: 1/4;
+}
+.img_cont7 {
+  grid-row: 4/6;
+}
+.img_cont4 {
+  grid-row: 1/3;
+}
+.img_cont8 {
+  grid-row: 3/6;
+} */
+.row {
+  display: flex;
+  align-items: flex-start;
+  max-height: 700px;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  align-self: flex-end;
+  padding: 0 4px;
+  max-height: 100%;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+  transition: 0.5s;
+}
+.column img:hover {
+  transform: scale(0.7);
+}
+.top_text {
+  font-family: "Open Sans";
+  text-align: center;
+}
+.h {
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.top_text {
+  margin-bottom: 200px;
+}
+.overall {
+  transform: translateY(-500px);
+  padding: 50px;
+}
+.bottom_blog {
+  position: absolute;
+  left: 0;
+  margin-top: 20px;
+  display: flex;
+}
+.bottom_blog img {
+  width: 250px;
+  margin: 5px;
+  filter: grayscale();
+  transition: 0.3s;
+}
+.bottom_blog img:hover {
+  filter: none;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+.top_text2 {
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+@media only screen and (max-width: 1300px) {
+  .overall {
+    transform: translateY(0);
+  }
+  .bottom_blog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: static;
+  }
+  .top_text {
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .bottom_blog img {
+    width: 140px;
+  }
+}

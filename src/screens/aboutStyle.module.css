@@ -25,10 +25,29 @@
 }
 .container {
   display: flex;
+  max-width: 100%;
 }
 .gridRight {
   display: grid;
-  grid-row: 1;
   grid-template-columns: repeat(4, 1fr);
   transform: translateY(-100px);
+}
+@media only screen and (max-width: 1300px) {
+  .text {
+    margin: 0;
+  }
+  .container {
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .gridRight {
+    transform: translateY(0);
+    display: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
 }

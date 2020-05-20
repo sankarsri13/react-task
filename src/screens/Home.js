@@ -5,7 +5,7 @@ import right from "../assets/right.png";
 import "./main.css";
 export const Home = () => {
   return (
-    <div className="main-container">
+    <div className={styles.main_container}>
       <div className={styles.home}>
         <NavBar />
         <div className={styles.text_cont}>

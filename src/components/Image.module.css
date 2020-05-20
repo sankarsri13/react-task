@@ -12,7 +12,16 @@
 }
 .ind_img {
   transition: 0.5s;
+  width: 250px;
+  height: 400px;
 }
 .ind_img:hover {
   transform: scale(1.1);
+}
+
+@media only screen and (max-width: 900px) {
+  .ind_img {
+    width: 200px;
+    height: 350px;
+  }
 }
