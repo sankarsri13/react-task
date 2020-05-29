@@ -3,6 +3,18 @@ import styles from "./homeStyle.module.css";
 import NavBar from "../components/NavBar";
 import right from "../assets/right.png";
 import "./main.css";
+import { createBrowserHistory as history } from "history";
+import {
+  BrowserRouter as Router,
+  Route,
+  Link,
+  Switch,
+  Redirect,
+} from "react-router-dom";
+const style_comp = {
+  textDecoration: "none",
+  color: "black",
+};
 export const Home = () => {
   return (
     <div className={styles.main_container}>
@@ -17,6 +29,7 @@ export const Home = () => {
           </p>
           <div className={styles.explore}>
             <p>EXPLORE</p>
+
             <img src={right} alt="" />
           </div>
         </div>
